@@ -16,7 +16,7 @@ public class VehiculoService
     {
         if (await _repository.ExistePatenteAsync(dto.patente))
             return "La patente pertenece a otro vehiculo";
-
+     
         var vehiculo = new Vehiculo
         {
             Patente = dto.patente,

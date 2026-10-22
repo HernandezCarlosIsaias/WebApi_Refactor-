@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\Downloads\\segund0 parcial A\\Parcial - Bosaz, Mathias Agustin - Programacion\\Parcial\\Parcial.csproj": {}
+    "C:\\Users\\Pc\\Downloads\\segund0 parcial A\\Parcial - Programacion\\Parcial\\Parcial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\Downloads\\segund0 parcial A\\Parcial - Bosaz, Mathias Agustin - Programacion\\Parcial\\Parcial.csproj": {
+    "C:\\Users\\Pc\\Downloads\\segund0 parcial A\\Parcial - Programacion\\Parcial\\Parcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Downloads\\segund0 parcial A\\Parcial - Bosaz, Mathias Agustin - Programacion\\Parcial\\Parcial.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Downloads\\segund0 parcial A\\Parcial - Programacion\\Parcial\\Parcial.csproj",
         "projectName": "Parcial",
-        "projectPath": "C:\\Users\\Pc\\Downloads\\segund0 parcial A\\Parcial - Bosaz, Mathias Agustin - Programacion\\Parcial\\Parcial.csproj",
+        "projectPath": "C:\\Users\\Pc\\Downloads\\segund0 parcial A\\Parcial - Programacion\\Parcial\\Parcial.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Downloads\\segund0 parcial A\\Parcial - Bosaz, Mathias Agustin - Programacion\\Parcial\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Downloads\\segund0 parcial A\\Parcial - Programacion\\Parcial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
